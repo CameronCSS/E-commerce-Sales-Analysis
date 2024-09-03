@@ -2,6 +2,7 @@
 
 <sub>View the Full [NOTEBOOK](https://github.com/CameronCSS/E-commerce-Sales-Analysis/blob/main/e-commerce-sales-analysis.ipynb)</sub>
 
+<sub>View the [AI Dataset Generator](https://data-generator-enterprisedna12.replit.app/)</sub>
 
 ## **Total Sales and Revenue Trends**
 
